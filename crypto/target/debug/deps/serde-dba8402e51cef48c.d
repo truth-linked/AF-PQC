@@ -1,0 +1,12 @@
+/Users/sleekdevelopers/Documents/truthlinked-extract/authority-fabric/AF-PQC/crypto/target/debug/deps/serde-dba8402e51cef48c.d: /Users/sleekdevelopers/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/sleekdevelopers/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/sleekdevelopers/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/sleekdevelopers/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/sleekdevelopers/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/sleekdevelopers/Documents/truthlinked-extract/authority-fabric/AF-PQC/crypto/target/debug/build/serde-116e4b400d6c5380/out/private.rs
+
+/Users/sleekdevelopers/Documents/truthlinked-extract/authority-fabric/AF-PQC/crypto/target/debug/deps/libserde-dba8402e51cef48c.rmeta: /Users/sleekdevelopers/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/sleekdevelopers/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/sleekdevelopers/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/sleekdevelopers/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/sleekdevelopers/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/sleekdevelopers/Documents/truthlinked-extract/authority-fabric/AF-PQC/crypto/target/debug/build/serde-116e4b400d6c5380/out/private.rs
+
+/Users/sleekdevelopers/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/Users/sleekdevelopers/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/Users/sleekdevelopers/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/Users/sleekdevelopers/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/Users/sleekdevelopers/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/Users/sleekdevelopers/Documents/truthlinked-extract/authority-fabric/AF-PQC/crypto/target/debug/build/serde-116e4b400d6c5380/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/sleekdevelopers/Documents/truthlinked-extract/authority-fabric/AF-PQC/crypto/target/debug/build/serde-116e4b400d6c5380/out

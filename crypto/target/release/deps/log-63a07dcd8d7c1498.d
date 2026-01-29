@@ -1,0 +1,10 @@
+/Users/sleekdevelopers/Documents/truthlinked-extract/authority-fabric/AF-PQC/crypto/target/release/deps/log-63a07dcd8d7c1498.d: /Users/sleekdevelopers/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/lib.rs /Users/sleekdevelopers/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/macros.rs /Users/sleekdevelopers/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/serde.rs /Users/sleekdevelopers/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/__private_api.rs
+
+/Users/sleekdevelopers/Documents/truthlinked-extract/authority-fabric/AF-PQC/crypto/target/release/deps/liblog-63a07dcd8d7c1498.rlib: /Users/sleekdevelopers/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/lib.rs /Users/sleekdevelopers/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/macros.rs /Users/sleekdevelopers/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/serde.rs /Users/sleekdevelopers/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/__private_api.rs
+
+/Users/sleekdevelopers/Documents/truthlinked-extract/authority-fabric/AF-PQC/crypto/target/release/deps/liblog-63a07dcd8d7c1498.rmeta: /Users/sleekdevelopers/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/lib.rs /Users/sleekdevelopers/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/macros.rs /Users/sleekdevelopers/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/serde.rs /Users/sleekdevelopers/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/__private_api.rs
+
+/Users/sleekdevelopers/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/lib.rs:
+/Users/sleekdevelopers/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/macros.rs:
+/Users/sleekdevelopers/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/serde.rs:
+/Users/sleekdevelopers/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/__private_api.rs:
